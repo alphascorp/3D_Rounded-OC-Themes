@@ -13,8 +13,29 @@ Themes for use with OpenCore 0.7.0 and Higher and OpenCore Legacy Patcher (OCLP)
 - Misc —> Boot —> PickerAtributes: 145
 
 Like this:
-
-<img width="400" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/blob/main/Screenshots/Screenshot_config.plist.jpg">
+```
+<key>Misc</key>
+<dict>
+  
+  …
+  
+  <key>Boot</key>
+  <dict>
+    
+    …
+    
+    <key>PickerAttributes</key>
+    <integer>145</integer>
+    
+    …
+    
+    <key>PickerVariant</key>
+    <string>Alphascorp\3D_Rounded_Hero</string>
+    
+    …
+          
+  </dict>
+```
 
 ## Replace the unziped `Resources` folder in `EFI/OC`
 
@@ -23,31 +44,31 @@ Like this:
 
 
   - 3D_Rounded_Hero ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_Hero.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Hero_Bootview.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Hero_Bootview.jpg"></p>
  
   - 3D_Rounded_Aurora ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_Aurora.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Aurora_Bootview.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_Aurora Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Aurora_Bootview.jpg"></p>
    
   - 3D_Rounded_CaliforniaStreaming ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_CaliforniaStreaming.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_CaliforniaStreaming_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_CaliforniaStreaming_BootView.jpg"></p>
    
   - 3D_Rounded_Unleashed ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_Unleashed.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Unleashed_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_Unleashed_BootView.jpg"></p>
 
   - 3D_Rounded_BigSurLight ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_BigSurLight.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg"></p>
    
   - 3D_Rounded_BigSurDark ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_BigSurDark.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_BigSurDark_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_BigSurDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_BigSurDark_BootView.jpg"></p>
    
   - 3D_Rounded_MontereyLight ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_MontereyLight.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_MontereyLight_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_MontereyLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_MontereyLight_BootView.jpg"></p>
    
   - 3D_Rounded_MontereyDark ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_MontereyDark.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_MontereyDark_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_MontereyDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_MontereyDark_BootView.jpg"></p>
    
   - 3D_Rounded_NeutralGrey ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_NeutralGrey.zip))
-<img width="800" alt="1" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_NeutralGrey_BootView.jpg">
+<p align="center"><img width="800" alt="3D_Rounded_NeutralGrey Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/blob/main/Screenshots/3D_Rounded_NeutralGrey_BootView.jpg"></p>
   
 
 ## Credits:
