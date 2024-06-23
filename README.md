@@ -47,6 +47,12 @@
 ## 3D_Rounded themes view
 
 
+  - 3D_Rounded_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SequoiaLight.zip))
+<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaLight_Bootview.jpg"></p>
+   
+  - 3D_Rounded_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SequoiaDark.zip))
+<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaDark_Bootview.jpg"></p>
+   
   - 3D_Rounded_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_Hero.zip))
 <p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_Hero_Bootview.jpg"></p>
  
