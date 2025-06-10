@@ -58,33 +58,6 @@
    
   - 3D_Rounded_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SequoiaDark.zip))
 <p align="center"><img width="800" alt="3D_Rounded_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaDark_BootView.jpg"></p>
-   
-  - 3D_Rounded_SonomaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_SonomaLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_SonomaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_SonomaLight_BootView.jpg"></p>
-
-  - 3D_Rounded_SonomaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_SonomaDark.zip))
-<p align="center"><img width="800" alt="3D_Rounded_SonomaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_SonomaDark_BootView.jpg"></p>
-
-  - 3D_Rounded_VenturaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_VenturaLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_VenturaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_VenturaLight_BootView.jpg"></p>
-
-  - 3D_Rounded_VenturaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_VenturaDark.zip))
-<p align="center"><img width="800" alt="3D_Rounded_VenturaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_VenturaDark_BootView.jpg"></p>
-
-  - 3D_Rounded_BigSurLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_BigSurLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg"></p>
-
-  - 3D_Rounded_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Hero.zip))
-<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Hero_BootView.jpg"></p>
- 
-  - 3D_Rounded_Aurora :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Aurora.zip))
-<p align="center"><img width="800" alt="3D_Rounded_Aurora Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Aurora_BootView.jpg"></p>
-   
-  - 3D_Rounded_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_CaliforniaStreaming.zip))
-<p align="center"><img width="800" alt="3D_Rounded_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_CaliforniaStreaming_BootView.jpg"></p>
-   
-  - 3D_Rounded_Unleashed :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Unleashed.zip))
-<p align="center"><img width="800" alt="3D_Rounded_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Unleashed_BootView.jpg"></p>
 
   - 3D_Rounded_SonomaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SonomaLight.zip))
 <p align="center"><img width="800" alt="3D_Rounded_SonomaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SonomaLight_BootView.jpg"></p>
@@ -97,19 +70,31 @@
 
   - 3D_Rounded_VenturaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_VenturaDark.zip))
 <p align="center"><img width="800" alt="3D_Rounded_VenturaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_VenturaDark_BootView.jpg"></p>
-
-  - 3D_Rounded_BigSurLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_BigSurLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg"></p>
-   
-  - 3D_Rounded_BigSurDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_BigSurDark.zip))
-<p align="center"><img width="800" alt="3D_Rounded_BigSurDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_BigSurDark_BootView.jpg"></p>
    
   - 3D_Rounded_MontereyLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_MontereyLight.zip))
 <p align="center"><img width="800" alt="3D_Rounded_MontereyLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_MontereyLight_BootView.jpg"></p>
    
   - 3D_Rounded_MontereyDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_MontereyDark.zip))
 <p align="center"><img width="800" alt="3D_Rounded_MontereyDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_MontereyDark_BootView.jpg"></p>
+ 
+  - 3D_Rounded_BigSurLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_BigSurLight.zip))
+<p align="center"><img width="800" alt="3D_Rounded_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg"></p>
    
+  - 3D_Rounded_BigSurDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_BigSurDark.zip))
+<p align="center"><img width="800" alt="3D_Rounded_BigSurDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_BigSurDark_BootView.jpg"></p>
+
+  - 3D_Rounded_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Hero.zip))
+<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Hero_BootView.jpg"></p>
+ 
+  - 3D_Rounded_Aurora :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Aurora.zip))
+<p align="center"><img width="800" alt="3D_Rounded_Aurora Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Aurora_BootView.jpg"></p>
+   
+  - 3D_Rounded_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_CaliforniaStreaming.zip))
+<p align="center"><img width="800" alt="3D_Rounded_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_CaliforniaStreaming_BootView.jpg"></p>
+   
+  - 3D_Rounded_Unleashed :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Unleashed.zip))
+<p align="center"><img width="800" alt="3D_Rounded_Unleashed Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Unleashed_BootView.jpg"></p>
+  
   - 3D_Rounded_NeutralGrey :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_NeutralGrey.zip))
 <p align="center"><img width="800" alt="3D_Rounded_NeutralGrey Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_NeutralGrey_BootView.jpg"></p>
   
