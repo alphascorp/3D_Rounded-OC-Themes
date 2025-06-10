@@ -48,16 +48,16 @@
 
 
   - 3D_Rounded_TahoeLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_TahoeLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_TahoeLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_TahoeLight_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_TahoeLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_TahoeLight_BootView.jpg"></p>
    
   - 3D_Rounded_TahoeDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_TahoeDark.zip))
-<p align="center"><img width="800" alt="3D_Rounded_TahoeDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_TahoeDark_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_TahoeDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_TahoeDark_BootView.jpg"></p>
 
   - 3D_Rounded_SequoiaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SequoiaLight.zip))
-<p align="center"><img width="800" alt="3D_Rounded_SequoiaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaLight_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_SequoiaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaLight_BootView.jpg"></p>
    
   - 3D_Rounded_SequoiaDark :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_SequoiaDark.zip))
-<p align="center"><img width="800" alt="3D_Rounded_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaDark_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_SequoiaDark Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_SequoiaDark_BootView.jpg"></p>
    
   - 3D_Rounded_SonomaLight :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Themes/3D_Rounded_SonomaLight.zip))
 <p align="center"><img width="800" alt="3D_Rounded_SonomaLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_SonomaLight_BootView.jpg"></p>
@@ -75,10 +75,10 @@
 <p align="center"><img width="800" alt="3D_Rounded_BigSurLight Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-themes/raw/main/Screenshots/3D_Rounded_BigSurLight_BootView.jpg"></p>
 
   - 3D_Rounded_Hero :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Hero.zip))
-<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Hero_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_Hero Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Hero_BootView.jpg"></p>
  
   - 3D_Rounded_Aurora :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_Aurora.zip))
-<p align="center"><img width="800" alt="3D_Rounded_Aurora Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Aurora_Bootview.jpg"></p>
+<p align="center"><img width="800" alt="3D_Rounded_Aurora Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_Aurora_BootView.jpg"></p>
    
   - 3D_Rounded_CaliforniaStreaming :point_right: ([Download](https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Themes/3D_Rounded_CaliforniaStreaming.zip))
 <p align="center"><img width="800" alt="3D_Rounded_CaliforniaStreaming Screenshot" src="https://github.com/alphascorp/3D_Rounded-OC-Themes/raw/main/Screenshots/3D_Rounded_CaliforniaStreaming_BootView.jpg"></p>
